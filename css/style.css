@@ -1,0 +1,38 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+ background-image: url("stars.jpg");
+ background-repeat: no-repeat;
+ 
+}
+#Naslov{
+	height:50px;
+	background:white;
+}
+.Napis{
+	text-align:center;
+	color:black;
+	font-size:50px;
+	
+}
+#Maze{
+	
+	
+	height:600px;
+	width:620px;
+	position:absolute;
+	left:188mm;
+	top:50mm;
+}
+img{
+	margin: 550px auto;
+	margin-left:870px;
+  display: block; 
+  width: 10%;
+  transform:scale(0.2);
+  
+  
+}
+
